@@ -1,0 +1,168 @@
+#VALUE|QUESTION|ANSWER 1, ANSWER 2|Picture link (N/A if no picture)|REG or DD (Regular or a Daily  Double)
+
+#-----------------
+#Single J
+
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+200|Question txt|Correct responses, separated by commas|N/A|REG
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+600|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+200|Question txt|Correct responses, separated by commas|N/A|REG
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+600|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+200|Question txt|Correct responses, separated by commas|N/A|REG
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+600|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+200|Question txt|Correct responses, separated by commas|N/A|REG
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+600|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+200|Question txt|Correct responses, separated by commas|N/A|REG
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+600|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+200|Question txt|Correct responses, separated by commas|N/A|REG
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+600|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+#Double J
+
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1200|Question txt|Correct responses, separated by commas|N/A|REG
+
+1600|Question txt|Correct responses, separated by commas|N/A|REG
+
+2000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1200|Question txt|Correct responses, separated by commas|N/A|REG
+
+1600|Question txt|Correct responses, separated by commas|N/A|REG
+
+2000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1200|Question txt|Correct responses, separated by commas|N/A|REG
+
+1600|Question txt|Correct responses, separated by commas|N/A|REG
+
+2000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1200|Question txt|Correct responses, separated by commas|N/A|REG
+
+1600|Question txt|Correct responses, separated by commas|N/A|REG
+
+2000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1200|Question txt|Correct responses, separated by commas|N/A|REG
+
+1600|Question txt|Correct responses, separated by commas|N/A|REG
+
+2000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+Category: CATEGORY (specific instructions can be included in parenthesis)
+
+400|Question txt|Correct responses, separated by commas|N/A|REG
+
+800|Question txt|Correct responses, separated by commas|N/A|REG
+
+1200|Question txt|Correct responses, separated by commas|N/A|REG
+
+1600|Question txt|Correct responses, separated by commas|N/A|REG
+
+2000|Question txt|Correct responses, separated by commas|N/A|REG
+
+#-----------------
+#Final J
+
+Category: CATEGORY
+
+Question|Resonses|Image link

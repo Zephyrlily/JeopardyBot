@@ -1,0 +1,168 @@
+#VALUE|QUESTION|ANSWER 1, ANSWER 2|Picture link (N/A if no picture)|REG or DD (Regular or a Daily  Double)
+
+#-----------------
+#Single J
+
+Category: THIS MEANS WAR!
+
+200|In this U.S. war, it was the Yanks vs. the Confederates|Civil War|N/A|REG
+
+400|During the Revolutionary War, volunteers ready to fight with 60 seconds' notice were called these|Minutemen|N/A|REG
+
+600|This future state declared its independence in 1836 during a war with Mexico|Texas|N/A|REG
+
+800|Lasting from 1957 to 1975, it's the longest war in which the U.S. has taken part|Vietnam War|N/A|REG
+
+1000|The Hundred Years' War, 1337 to 1453, was fought between England & this country|France|N/A|REG
+
+#-----------------
+Category: SCIENCE
+
+200|It's the weakest of the 4 basic forces, but it's strong enough to keep the moon orbiting the Earth|Gravity, gravitational|N/A|REG
+
+400|A cubic inch of material contains a million billion billion of these, each with protons & neutrons in its nucleus|Atoms|N/A|REG
+
+600|Changes in the tropospheric layer of this are what gives us weather|Atmosphere|N/A|REG
+
+800|A report on Ganymede, a moon of this planet, suggests a liquid ocean under the surface & snow that falls up|Jupiter|N/A|REG
+
+1000|The size of a fist, this organ behind your left ribs fights invading germs in your blood by producing lymphocytes|Spleen|N/A|REG
+
+#-----------------
+Category: ANIMAL EXPRESSIONS
+
+200|Temporarily hoarse? You've got this amphibian condition|Frog in your throat|N/A|REG
+
+400|This phrase about a hidden enemy comes from Virgil, "Latet anguis in herba"|Snake in the grass|N/A|DD
+
+600|Beginning in the 1920s, it was high praise to be the cat's pajamas or this rhyming insect phrase|Bee's Knees|N/A|REG
+
+800|It means stocks are on the rise & investors are rushing to buy|Bull market|N/A|REG
+
+1000|This exclamation that means "nonsense" is a 1932 Marx Brothers title|Horse feathers|N/A|REG
+
+#-----------------
+Category: ALSO A GIRL'S NAME
+
+200|A small, freshwater stream, perhaps babbling|Brook|N/A|REG
+
+400|It used to mean to woo or court; now it means take to court|Sue|N/A|REG
+
+600|It precedes mater when referring to one's former school|Alma|N/A|REG
+
+800|A female donkey|Jenny|N/A|REG
+
+1000|It's a type of expansion bolt used to hang heavy objects on a hollow wall|Molly|N/A|REG
+
+#-----------------
+Category: LEONARDO DICAPRIO
+
+200|In one of his first breakout roles, Leonardo DiCaprio played this tragic Shakespearean Montague|Romeo|N/A|REG
+
+400|In "Titanic", Leonardo DiCaprio falls in love with Rose DeWitt Bukater, played by the actress seen here|Winslet, Kate Winslet|https://media.discordapp.net/attachments/907430127447724042/1223224637413134398/hmmm.png?ex=661913b7&is=66069eb7&hm=c32220b666b196b6303775d7cc5424e233c1ea907c68a7883e994673cf188197&=&format=webp&quality=lossless&width=397&height=596|REG
+
+600|Leo got his name when his mother felt him move while looking at a picture in this museum; the artist's most famous painting is located there|Louvre|N/A|REG
+
+800|It's all a dream (or a dream within a dream within a dream) for Leonardo DiCaprio & Ellen Page in this film--or is it?|Inception|N/A|REG
+
+1000|DiCaprio starred as stockbroker Jordan Belfort in this Martin Scorsese film with a lupine title|Wolf of Wall Street|N/A|REG
+
+#-----------------
+Category: 7-LETTER WORDS
+
+200|What used to be called the pound sign is now known as this|Hashtag|N/A|REG
+
+400|A small hotel, or a payment to a retiree|Pension|N/A|REG
+
+600|Catholic tradition says this cup used for sacramental wine should be at least part gold or silver|Chalice|N/A|REG
+
+800|An early settler of a territory, or a U.S. space probe that was launched in 1958|Pioneer|N/A|REG
+
+1000|Aristotle said about this infliction of pain: "People under its compulsion tell lies" as often as the truth|Torture|N/A|REG
+
+#-----------------
+#Double J
+
+Category: EUROPEAN CITIES
+
+400|Mount Pentelicus, north of this capital, supplied the white marble for the buildings on the Acropolis|Athens|N/A|REG
+
+800|"Carmen" is set in this city; "The Marriage of Figaro" takes place nearby|Seville|N/A|REG
+
+1200|Tallinn, capital of this nation, was settled by the Danes in 1219 & later joined the Hanseatic League|Estonia|N/A|REG
+
+1600|This Swiss city is headquarters to the World Council of Churches|Geneva|N/A|REG
+
+2000|If you're into bridges, this city has more than 400 of 'em, including the Rialto that crosses the Grand Canal|Venice|N/A|REG
+
+#-----------------
+Category: US PRESIDENTIAL YEARS
+
+400|March 4th, 1797 - March 4th, 1801|John Adams, Adams|N/A|REG
+
+800|January 20th, 1969 - August 9th, 1974|Nixon, Richard Nixon|N/A|REG
+
+1200|April 15th, 1865 - March 4th, 1869|Johnson, Andrew Johnson|N/A|REG
+
+1600|March 4th, 1841 - April 4th, 1841|William Henry Harrison|N/A|REG
+
+2000|March 4th, 1929 - March 4, 1933|Hoover, Herbert Hoover|N/A|REG
+
+#-----------------
+Category: RHYME TIME
+
+400|A thick baseball stick|Fat bat|N/A|REG
+
+800|A defensive ditch dug in Dijon|French trench|N/A|REG
+
+1200|To unsettle cows|Rattle cattle|N/A|REG
+
+1600|A partial chortle|Half laugh|N/A|REG
+
+2000|The most essential chorus|Main refrain|N/A|REG
+
+#-----------------
+Category: SWEET STUFF
+
+400|Josef Delarose Lascaux introduced this confection, aka spun sugar, at his dental practice|Cotton candy|N/A|REG
+
+800|The supple consistency of this chewy saltwater candy is achieved by twisting & pulling as it cools|Taffy|N/A|REG
+
+1200|George Renninger invented this tricolored confection in the 1880s; farmers loved its agrarian look|Candy corn|N/A|REG
+
+1600|Macaroons are often made with the shredded meat of this palm fruit|Coconut|N/A|REG
+
+2000|The French name of this airy dessert means "foam" or "froth"; it also refers to the foam on the surface of champagne|Mousse|N/A|REG
+
+#-----------------
+Category: POP MUSIC
+
+400|Ariana Grande sings, "When all is said & done, you will believe" this, a 2018 song that mixes spirituality & female power|God is a Woman|N/A|REG
+
+800|In a No. 1 Michael Jackson hit, "She's just a girl who claims that I am the one, but the kid is not my son"|Billie Jean|N/A|REG
+
+1200|Ricky Martin had a hit with "Livin' La Vida Loca", while this British group topped the charts with "Viva La Vida"|Coldplay|N/A|REG
+
+1600|A song by Zedd, Maren Morris & Grey asks, "Oh baby, why don't you just meet me in" this title place|The Middle|N/A|DD
+
+2000|According to Billboard, the top holiday artist of 2022 was this a cappella group who have been singing together since 2011|Pentatonix|N/A|REG
+
+#-----------------
+Category: YOU GOT 2 As & 2 Ds
+
+400|A person seeking political office on the ballot|Candidate|N/A|REG
+
+800|The woman who owns the apartment you rent is your this|Landlady|N/A|REG
+
+1200|In a children's song, it comes between "knick knack" & "give the dog a bone"|Paddywhack|N/A|REG
+
+1600|Morbid-sounding 2-word term for a race that ends in a tie|Dead heat|N/A|DD
+
+2000|You don't want to get kicked out of the army this alliterative way|Dishonorable Discharge|N/A|REG
+
+#-----------------
+#Final J
+
+Category: 19th CENTURY LITERARY CHARACTERS
+
+"Hard and sharp as flint... he iced his office in the dog-days; and didn't thaw it one degree at Christmas"|Ebenezer Scrooge, Scrooge|N/A
